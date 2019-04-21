@@ -2,8 +2,8 @@
 I'm a machine learning researcher and high school student in San Diego, California. Although I'm still in secondary school, I have a passion for academic research and have published three papers in various conferences of machine learning, computer vision, and robotics. I have some experience in industry too, acting as a software developer for a startup company. In my free time I enjoy reading Stoic philosophy, stargazing, and going on walks with my dog Peanut.
 
 # Resume
-<div style="width:100%; padding-bottom:125%; position:relative;">
-<object data="/Resume.pdf" type="application/pdf" width="100%" height="125%" style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;">
+<div style="width:100%; padding-bottom:100%; position:relative;">
+<object data="/Resume.pdf" type="application/pdf" width="100%" height="100%" style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;">
     <p>It appears you don't have a PDF plugin for this browser.
         No biggie... you can <a href="/Resume.pdf">click here to
             download my resume.</a></p>
