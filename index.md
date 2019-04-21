@@ -1,3 +1,8 @@
+---
+github:
+  is_project_page: false
+---
+
 # About Me
 I'm a machine learning researcher and high school student in San Diego, California. Although I'm still in secondary school, I have a passion for academic research and have published three papers in various conferences of machine learning, computer vision, and robotics. I have some experience in industry too, acting as a software developer for a startup company. In my free time I enjoy reading Stoic philosophy, stargazing, singing Indian classical music, and going on walks with my dog Peanut.
 
