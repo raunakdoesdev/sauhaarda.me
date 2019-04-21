@@ -26,3 +26,7 @@ To address this issue, I created the PhonoNet deep learning system for raga dete
 ![](https://lh3.googleusercontent.com/s5z0n2HKKlqkr2exDPA87TXgrasopPftNlaqIk7ynclknQxLOvWd28imjhmKA2xkRPnuJU85d1Jd_CCHz6_a7f3XVl2rPnuj3b4-qSAHfRuFyAnw7TDmDcTuKvmpAjT7ka5A-SEvPxBY4aVF33ZkjUuq4yGly7oBv3aucN2eSR24wo51w4RMHlct3qbBif5iRTD8GkILEbe4YLtEifDTNHrigo6Ksi4H-QUimU2nmqin2IeVkp0u318VqK1haLvKtMc65cI_gs_i7aIJVqS3IkJunyCW_YQsXTrQyFdkVpmV3rSVn5mTRhRNS8wFH0PqAzdVs0n2JDo439m-jnDdCzsiezfxqjoizLFRJZ8pGbG_bHdekTgOGOdsM9k8tJIBjsw5cZ0kiRGPcS5jquNGUbfkgctN8oCwtRVg8J3DyaXHD2DMqUwzEbWL5Dfm8wTjL7bB45sEKnzCt0vHtkdAtoQb51yq7oYnbe7iThstb5H5d1PZKlRtdOj1iDPRCiD6hlYRFGj3Mg8VmzIDvTVLlGBmlSMRFZKUhFxr8QTu8BPpZ9Wcqreg-cSkjjBkSfyEe6uyw6aIp4EKuAGqujzi38TEmnDLidkBxp8P11rTmsZ2VLFPeKL3Y22NOQUY4Hpksdjci45Nok69FYRjIMRdecdVInbIMCWx=w287-h380-no?style=centerme)
 
 As the president of my high school robotics team I lead a number of outreach efforts. For one of our team's STEM workshops, I created a simple wrapper on top of OpenCV called SimpleCV to teach middle school students the basics of image manipulation and computer vision. At the end of the activity, all students could draw a mustache on top of an image of a face and some were able to draw mustaches on themselves with a live feed camera!
+
+<center>
+<a href="https://github.com/sauhaardac/A-New-Vision-Workshop" class="btn" style="background-color: #159957;">View on GitHub</a>
+</center>
