@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Sauhaarda Chowdhuri
 description: Machine Learning Researcher interested in Computer Vision, Audio Processing, and Robotics.
+github:
+  is_project_page: false
