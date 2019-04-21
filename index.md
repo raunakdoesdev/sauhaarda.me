@@ -13,6 +13,7 @@ I'm a machine learning researcher and high school student in San Diego, Californ
 # Projects
 
 ## Raga Predictor and Visualizer
+![](https://lh3.googleusercontent.com/EoNKE8b7FQkCOBxHxmXUZAptZm1AKS01fHUyQ6umVR6KwQJmx7ArXIcu0laCecf2NDjIsiMg6wdAlQ5qnm5lR0D8P48zKcUFMjYNOSK5-qEa-AHq76_lU_TfHUmD-Co01KN433zX8M-I3r0yjxbFQnWc0sEmXt6ZjMjuQ-M4u6GsObNdSL_LkgbuTzZB9i9PgOV_kTPvfaSx8tjwD2OIUaM4PVBD2WJqwchdg34AUBlmokizuNChHHMc0QGOPdmkfWjhPNUHo5xfm8uUR0PFz3IbnmBkeKAFI8Vq4mW_P10AO_4XYTrXBlG6fA4blyjLrBwCdiL91Nd62KWF91Z4Z3maWxIlMjU-5eNnEN0N2T_j5zrFHX2kY38OdnRh23Vv4atfMHgoZFs88JLoHPlzIYNWHvibcDqS1etbF1uc038WedRjVu6rTYCe-2MKSSAtCamACTHhXmg50Uc2XWFuWKlvuVjfGFJY8bVCb2sO2oyy-fMmsMKypH2lrhYfd3v5VVRfnsCe2yQXbcdYPJOGPlD9KSWqoqMXLFww0nj8V8GcECFsas7vmS7NpDoeHHPIkDdo3fZW_dCoTWD1ZbP-ijKCBq80YWPwdLsZNyEs8gj7caCoKAIjL2OuYyC4Jg4bZ17CIUpIfORnneqyBBjN92L7YmxtLWp0=w1442-h920-no)
 Indian classical music is a fading art form which focuses predominantly on improvisations on specific melodic modes, or ragas. The improvisational nature of the Indian ragas make them very difficult to consistently record in a distributable written format. Because ragas are passed down solely through an ancient oral tradition, much of the rich knowledge of Indian ragas is dying. 
 
 To address this issue, I created the PhonoNet deep learning system for raga detection, a tool which documents and augments the learning of Indian classical music and ragas by providing raga prediction and audio visualization. 
