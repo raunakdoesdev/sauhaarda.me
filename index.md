@@ -23,7 +23,10 @@ To address this issue, I created the PhonoNet deep learning system for raga dete
 </center>
 
 ## SimpleCV for Computer Vision Workshop
-![](https://lh3.googleusercontent.com/s5z0n2HKKlqkr2exDPA87TXgrasopPftNlaqIk7ynclknQxLOvWd28imjhmKA2xkRPnuJU85d1Jd_CCHz6_a7f3XVl2rPnuj3b4-qSAHfRuFyAnw7TDmDcTuKvmpAjT7ka5A-SEvPxBY4aVF33ZkjUuq4yGly7oBv3aucN2eSR24wo51w4RMHlct3qbBif5iRTD8GkILEbe4YLtEifDTNHrigo6Ksi4H-QUimU2nmqin2IeVkp0u318VqK1haLvKtMc65cI_gs_i7aIJVqS3IkJunyCW_YQsXTrQyFdkVpmV3rSVn5mTRhRNS8wFH0PqAzdVs0n2JDo439m-jnDdCzsiezfxqjoizLFRJZ8pGbG_bHdekTgOGOdsM9k8tJIBjsw5cZ0kiRGPcS5jquNGUbfkgctN8oCwtRVg8J3DyaXHD2DMqUwzEbWL5Dfm8wTjL7bB45sEKnzCt0vHtkdAtoQb51yq7oYnbe7iThstb5H5d1PZKlRtdOj1iDPRCiD6hlYRFGj3Mg8VmzIDvTVLlGBmlSMRFZKUhFxr8QTu8BPpZ9Wcqreg-cSkjjBkSfyEe6uyw6aIp4EKuAGqujzi38TEmnDLidkBxp8P11rTmsZ2VLFPeKL3Y22NOQUY4Hpksdjci45Nok69FYRjIMRdecdVInbIMCWx=w287-h380-no?style=centerme)
+<center>
+<img src="https://lh3.googleusercontent.com/s5z0n2HKKlqkr2exDPA87TXgrasopPftNlaqIk7ynclknQxLOvWd28imjhmKA2xkRPnuJU85d1Jd_CCHz6_a7f3XVl2rPnuj3b4-qSAHfRuFyAnw7TDmDcTuKvmpAjT7ka5A-SEvPxBY4aVF33ZkjUuq4yGly7oBv3aucN2eSR24wo51w4RMHlct3qbBif5iRTD8GkILEbe4YLtEifDTNHrigo6Ksi4H-QUimU2nmqin2IeVkp0u318VqK1haLvKtMc65cI_gs_i7aIJVqS3IkJunyCW_YQsXTrQyFdkVpmV3rSVn5mTRhRNS8wFH0PqAzdVs0n2JDo439m-jnDdCzsiezfxqjoizLFRJZ8pGbG_bHdekTgOGOdsM9k8tJIBjsw5cZ0kiRGPcS5jquNGUbfkgctN8oCwtRVg8J3DyaXHD2DMqUwzEbWL5Dfm8wTjL7bB45sEKnzCt0vHtkdAtoQb51yq7oYnbe7iThstb5H5d1PZKlRtdOj1iDPRCiD6hlYRFGj3Mg8VmzIDvTVLlGBmlSMRFZKUhFxr8QTu8BPpZ9Wcqreg-cSkjjBkSfyEe6uyw6aIp4EKuAGqujzi38TEmnDLidkBxp8P11rTmsZ2VLFPeKL3Y22NOQUY4Hpksdjci45Nok69FYRjIMRdecdVInbIMCWx=w287-h380-no?style=centerme">
+</img>
+</center>
 
 As the president of my high school robotics team, I lead a number of outreach efforts. For one of our team's STEM workshops, I created a simple wrapper on top of OpenCV called SimpleCV to teach middle school students the basics of image manipulation and computer vision. At the end of the activity, all students could draw a mustache on top of an image of a face and some were able to draw mustaches on themselves with a live feed camera!
 
@@ -31,7 +34,7 @@ As the president of my high school robotics team, I lead a number of outreach ef
 <a href="https://github.com/sauhaardac/A-New-Vision-Workshop" class="btn" style="background-color: #159957;">View on GitHub</a>
 </center>
 
-# Haar Cascade Training Library on Windows
+## Haar Cascade Training Library on Windows
 ![](https://camo.githubusercontent.com/6c87033af321b0c113ac6436e015b655d42d7f5c/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d357475746154415843586f2f562d3748737775644d55492f41414141414141414a66492f32723742324a2d50474a3871503759526f6b626c7876354f6a4e6a32566c774867434c63422f73302f696d6167652e706e67)
 A comprehensive library for training Haar Cascades on Windows machines (primary operating system of my robotics team). All necessary files are compiled and stored within the repository with detailed usage instructions. Don't get me wrong, Linux RULES! This is just so my robotics computer vision team members could get started.
 
