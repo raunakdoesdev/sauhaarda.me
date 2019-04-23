@@ -3,22 +3,27 @@ github:
   is_project_page: false
 ---
 
+<head>
+  <script>
+    function resizeIframe(obj) {
+      obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+    }
+  </script>
+</head>
+
 # About Me
 I'm a machine learning researcher and high school student in San Diego, California. Although I'm still in secondary school, I have a passion for academic research and have published three papers in various conferences of machine learning, computer vision, and robotics. I have some experience in industry too, acting as a software developer for a startup company. In my free time I enjoy reading Stoic philosophy, stargazing, singing Indian classical music, and going on walks with my dog Peanut.
 
-# Resume
-[Click here to download my Resume!](/Resume.pdf)
+<center>
+<a href="/Resume.pdf" class="btn" style="background-color: #159957;">Download Resume</a>
+</center>
 
 # Projects
 
 ## MultiNet: Mulit Modal Deep Learning for Autonomous Driving
-
-<video width="100%" controls>
-    <source src="/images/icra.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-        No biggie... you can <a href="/images/icra.mp4">click here to
-            download the video (it's only 10 Mb).</a>
-</video>
+<iframe
+src="https://www.youtube.com/embed/VqvoSceKoGA" frameborder="0" scrolling="no" onload="resizeIframe(this)">
+</iframe>
 
 Autonomous driving requires operation in different behavioral modes ranging from lane following and intersection crossing to turning and stopping. I created a technique for learning multiple distinct behavioral modes in a single deep neural network through the use of multi-modal multi-task learning. I tested this technique using labeled data from over one hundred hours of driving our fleet of 1/10th scale model cars. 
 
