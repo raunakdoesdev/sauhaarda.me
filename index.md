@@ -3,14 +3,6 @@ github:
   is_project_page: false
 ---
 
-<head>
-  <script>
-    function resizeIframe(obj) {
-      obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
-    }
-  </script>
-</head>
-
 # About Me
 I'm a machine learning researcher and high school student in San Diego, California. Although I'm still in secondary school, I have a passion for academic research and have published three papers in various conferences of machine learning, computer vision, and robotics. I have some experience in industry too, acting as a software developer for a startup company. In my free time I enjoy reading Stoic philosophy, stargazing, singing Indian classical music, and going on walks with my dog Peanut.
 
@@ -24,6 +16,11 @@ I'm a machine learning researcher and high school student in San Diego, Californ
 <iframe
 src="https://www.youtube.com/embed/VqvoSceKoGA" frameborder="0" scrolling="no" onload="resizeIframe(this)">
 </iframe>
+
+<div style="position: relative; width: 100%; height: 0; padding-bottom 56.25%;">
+<iframe src="//www.youtube.com/embed/yCOY82UdFrw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 
 Autonomous driving requires operation in different behavioral modes ranging from lane following and intersection crossing to turning and stopping. I created a technique for learning multiple distinct behavioral modes in a single deep neural network through the use of multi-modal multi-task learning. I tested this technique using labeled data from over one hundred hours of driving our fleet of 1/10th scale model cars. 
 
