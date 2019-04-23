@@ -14,7 +14,12 @@ I'm a machine learning researcher and high school student in San Diego, Californ
 
 ## MultiNet: Mulit Modal Deep Learning for Autonomous Driving
 
-[![MultiNet](https://img.youtube.com/vi/VqvoSceKoGA/0.jpg)](https://www.youtube.com/watch?v=VqvoSceKoGA)
+<video width="100%" controls>
+    <source src="/icra.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+        No biggie... you can <a href="/icra.mp4">click here to
+            download the video (it's only 10 Mb).</a>
+</video>
 
 Autonomous driving requires operation in different behavioral modes ranging from lane following and intersection crossing to turning and stopping. I created a technique for learning multiple distinct behavioral modes in a single deep neural network through the use of multi-modal multi-task learning. I tested this technique using labeled data from over one hundred hours of driving our fleet of 1/10th scale model cars. 
 
