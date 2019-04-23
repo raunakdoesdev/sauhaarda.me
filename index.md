@@ -17,6 +17,18 @@ I'm a machine learning researcher and high school student in San Diego, Californ
 
 # Projects
 
+## MultiNet: Mulit Modal Deep Learning for Autonomous Driving
+
+<iframe width="100%"
+src="https://www.youtube.com/watch?v=VqvoSceKoGA" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+Autonomous driving requires operation in different behavioral modes ranging from lane following and intersection crossing to turning and stopping. However, most existing deep learning approaches to autonomous driving do not consider the behavioral mode in the training strategy. This paper describes a technique for learning multiple distinct behavioral modes in a single deep neural network through the use of multi-modal multi-task learning. We study the effectiveness of this approach, denoted MultiNet, using self- driving model cars for driving in unstructured environments such as sidewalks and unpaved roads. Using labeled data from over one hundred hours of driving our fleet of 1/10th scale model cars, we trained different neural networks to predict the steering angle and driving speed of the vehicle in different behavioral modes. We show that in each case, MultiNet networks outperform networks trained on individual modes while using a fraction of the total number of parameters.
+
+Deep networks have a hard time taking higher level directions and informations when conducting high level tasks end-to-end. To aid with this I created a system for inserting a "modal tensor" into the processing stream of a deep neural network which helps to guides network decisions (should I turn right or left at this intersection for example). This work used "behavioral modes" such as "direct" which drives on a sidewalk and "follow" which follows another model car driving ahead.
+
 ## PhonoNet: Raga Predicton and Visualization
 ![](https://lh3.googleusercontent.com/EoNKE8b7FQkCOBxHxmXUZAptZm1AKS01fHUyQ6umVR6KwQJmx7ArXIcu0laCecf2NDjIsiMg6wdAlQ5qnm5lR0D8P48zKcUFMjYNOSK5-qEa-AHq76_lU_TfHUmD-Co01KN433zX8M-I3r0yjxbFQnWc0sEmXt6ZjMjuQ-M4u6GsObNdSL_LkgbuTzZB9i9PgOV_kTPvfaSx8tjwD2OIUaM4PVBD2WJqwchdg34AUBlmokizuNChHHMc0QGOPdmkfWjhPNUHo5xfm8uUR0PFz3IbnmBkeKAFI8Vq4mW_P10AO_4XYTrXBlG6fA4blyjLrBwCdiL91Nd62KWF91Z4Z3maWxIlMjU-5eNnEN0N2T_j5zrFHX2kY38OdnRh23Vv4atfMHgoZFs88JLoHPlzIYNWHvibcDqS1etbF1uc038WedRjVu6rTYCe-2MKSSAtCamACTHhXmg50Uc2XWFuWKlvuVjfGFJY8bVCb2sO2oyy-fMmsMKypH2lrhYfd3v5VVRfnsCe2yQXbcdYPJOGPlD9KSWqoqMXLFww0nj8V8GcECFsas7vmS7NpDoeHHPIkDdo3fZW_dCoTWD1ZbP-ijKCBq80YWPwdLsZNyEs8gj7caCoKAIjL2OuYyC4Jg4bZ17CIUpIfORnneqyBBjN92L7YmxtLWp0=w1442-h920-no?style=centerme)
 Indian classical music is a fading art form which focuses predominantly on improvisations on specific melodic modes, or ragas. The improvisational nature of the Indian ragas make them very difficult to consistently record in a distributable written format. Because ragas are passed down solely through an ancient oral tradition, much of the rich knowledge of Indian ragas is dying. 
