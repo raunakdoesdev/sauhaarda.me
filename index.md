@@ -30,7 +30,7 @@ Indian classical music is a fading art form which focuses predominantly on impro
 To address this issue, I created the PhonoNet deep learning system for raga detection, a tool which documents and augments the learning of Indian classical music and ragas by providing raga prediction and audio visualization. 
 
 <center>
-<a href="https://github.com/sauhaardac/RagaAnalyzer" class="btn" style="background-color: #159957;">View on GitHub</a>
+<a href="https://github.com/sauhaardac/PhonoNet-GUI" class="btn" style="background-color: #159957;">View on GitHub</a>
 </center>
 
 ## SimpleCV for Computer Vision Workshop
